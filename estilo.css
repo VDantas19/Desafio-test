@@ -1,0 +1,70 @@
+body{
+    max-width: 80%;
+    margin:0 auto;
+    border: 0px red solid;
+    background-image: url(imagens/fundo.png);
+}
+
+nav{
+    width: 100%;
+  
+    border: 0px red solid;
+    display: flex;
+    justify-content:space-between;
+    flex-wrap: wrap;
+
+}
+.links{
+    float: right;
+    border: 0px red solid;
+    flex-direction: row;
+    display: flex;
+    justify-content: right;
+    padding: 0 auto;
+    flex-wrap: wrap;
+    
+}
+a{
+    color: black;
+    
+    padding-top: 50px;
+    padding-left: 30px;
+    text-decoration: none;
+}
+
+.capa2{
+    border: 0px red solid;
+    display: block;
+    justify-content: center;
+    padding-left: 50px
+}
+.capa{
+    padding-top: 3px;
+    padding-left: 100px;
+}
+.logo1{
+    width: 20%;
+    border: 0px red solid
+}
+.logo{
+    padding: 20px;
+}
+footer{
+    text-align: center;
+}
+p{
+
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+h1{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.texto_home{
+    display: flex;
+    text-align: left;
+ 
+
+}
